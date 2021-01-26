@@ -36,3 +36,9 @@ Supported all platforms with python3 installed
 - V 0.1-0.9 beta (deleted)
 
 Supported linux only with python 3 installed.
+
+## Install 📀
+
+- The latest version you can download from github is 3.4, but you will be agreeing to the 3.5 terms & conditions if you install it.
+
+
