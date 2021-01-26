@@ -43,7 +43,7 @@ Supported linux only with python 3 installed.
 
 - Download Link :
 
-https://github.com/Wh1ter0sEo4/pysek-client/blob/main/clients/3.4/setup_x64_py.exe
+- https://github.com/Wh1ter0sEo4/pysek-client/raw/main/clients/3.4/setup_x64_py.exe
 
 have fun <3
 
